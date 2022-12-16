@@ -1,0 +1,11 @@
+{
+    "pages":
+    [
+        {
+            "name": "+",
+            "args": ["int", "int"],
+            "desc": "Add two values.",
+            "returns": ["int", "Sum of the two values"]
+        }
+    ]
+}
